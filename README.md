@@ -5,7 +5,7 @@ You can find the details of the work in the paper below:
 
 # Citation
 Any use of the data which result in a publication should include the citation via (bibtex example):
-
+```
 @INPROCEEDINGS{trafficMonitoring,
 
   author={Halit Bugra Tulay and Can Emre Koksal},
@@ -16,3 +16,4 @@ Any use of the data which result in a publication should include the citation vi
 
   year={2020},
   pages={1-7},}
+```
